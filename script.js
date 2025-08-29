@@ -27,3 +27,4 @@
   alert("Form submitted successfully!");
   return true;
 }
+// Added simple validation code
